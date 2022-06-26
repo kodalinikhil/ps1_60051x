@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Ras-MacBook-Air.local" name="warmup.staff.QuadraticTest" skipped="0" tests="3" time="0.219" timestamp="2022-06-26T12:40:11">
+  <properties>
+    <property name="ant.library.dir" value="/Applications/IntelliJ IDEA CE.app/Contents/lib/ant/lib" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="17" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="which.tests.ran" value="BETA + FINAL" />
+    <property name="java.class.path" value="/Users/Nike123/Documents/ps1_60051x/lib/junit-4.12.jar:/Users/Nike123/Documents/ps1_60051x/lib/hamcrest-core-1.3.jar:/Users/Nike123/Documents/ps1_60051x/.grader/bin-tests-final:/Users/Nike123/Documents/ps1_60051x/.grader/bin-student:/Applications/IntelliJ IDEA CE.app/Contents/lib/ant/lib/ant-launcher.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/ant/lib/ant.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/ant/lib/ant-junit.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/ant/lib/ant-junit4.jar" />
+    <property name="project.name" value="ps1-warmup" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.vendor.url" value="https://java.oracle.com/" />
+    <property name="java.vm.specification.version" value="17" />
+    <property name="os.name" value="Mac OS X" />
+    <property name="build.sysclasspath" value="ignore" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="user.country" value="US" />
+    <property name="sun.boot.library.path" value="/Users/Nike123/Library/Java/JavaVirtualMachines/openjdk-17.0.2/Contents/Home/lib" />
+    <property name="problem.set" value="ps1" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner warmup.staff.QuadraticTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/Nike123/Documents/ps1_60051x/.grader/TEST-warmup.staff.QuadraticTest.xml crashfile=/Users/Nike123/Documents/ps1_60051x/.grader/junitvmwatcher10955092207425127926.properties propsfile=/Users/Nike123/Documents/ps1_60051x/.grader/junit4400335091747491573.properties" />
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="zipfile" value="my-submission.zip" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="beta.grader.jar" value="ps1-beta-grader.jar" />
+    <property name="user.home" value="/Users/Nike123" />
+    <property name="user.language" value="en" />
+    <property name="grader.report.file" value="my-grader-report.xml" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2022-01-18" />
+    <property name="java.home" value="/Users/Nike123/Library/Java/JavaVirtualMachines/openjdk-17.0.2/Contents/Home" />
+    <property name="basedir" value="/Users/Nike123/Documents/ps1_60051x" />
+    <property name="file.separator" value="/" />
+    <property name="java.vm.compressedOopsMode" value="Zero based" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="ant.java.version" value="17" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="final.grader.jar" value="ps1-final-grader.jar" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="java.runtime.version" value="17.0.2+8-86" />
+    <property name="user.name" value="Nike123" />
+    <property name="ant.file" value="/Users/Nike123/Documents/ps1_60051x/grader.xml" />
+    <property name="path.separator" value=":" />
+    <property name="os.version" value="10.14.6" />
+    <property name="ant.build.javac.target" value="1.8" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="ant.project.invoked-targets" value="all" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="didit.desc" value="Running our tests against your implementation" />
+    <property name="ant.core.lib" value="/Applications/IntelliJ IDEA CE.app/Contents/lib/ant/lib/ant.jar" />
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="/var/folders/dk/17zjgwb95ql8g63crpm65_h40000gp/T/" />
+    <property name="java.version" value="17.0.2" />
+    <property name="user.dir" value="/Users/Nike123/Documents/ps1_60051x" />
+    <property name="grader.dir" value=".grader" />
+    <property name="os.arch" value="x86_64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.home" value="/Applications/IntelliJ IDEA CE.app/Contents/lib/ant" />
+    <property name="native.encoding" value="UTF-8" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.5 compiled on July 10 2018" />
+    <property name="java.library.path" value="/Users/Nike123/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:." />
+    <property name="final.grading" value="true" />
+    <property name="java.vm.info" value="mixed mode, sharing" />
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="java.vm.version" value="17.0.2+8-86" />
+    <property name="sun.io.unicode.encoding" value="UnicodeBig" />
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
+    <property name="java.class.version" value="61.0" />
+    <property name="ant.project.default-target" value="all" />
+  </properties>
+  <testcase classname="warmup.staff.QuadraticTest" name="testRealRoots" time="0.001" />
+  <testcase classname="warmup.staff.QuadraticTest" name="testComplexRoots" time="0.001" />
+  <testcase classname="warmup.staff.QuadraticTest" name="testOneDegenerateRoot" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
